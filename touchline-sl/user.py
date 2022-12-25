@@ -1,1 +1,0 @@
-"""Class for handling the user and authentication."""
