@@ -1,0 +1,1 @@
+"""Class for loading the module informations."""

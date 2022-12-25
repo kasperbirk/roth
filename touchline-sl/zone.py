@@ -1,0 +1,1 @@
+"""Class for fetching the information about a zone."""
