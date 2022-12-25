@@ -1,2 +1,0 @@
-# touchline sl
-Touchline SL is a system for controlling a floor heating system. There is device for showing and controlling temperatures by setting target temperature for the zones registered in the system 
